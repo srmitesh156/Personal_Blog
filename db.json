@@ -1,20 +1,12 @@
 {
   "BlogData": [
     {
-      "id": "b807",
-      "Title": "sadsd",
-      "Author": "sadsad",
-      "Category": "sdsd",
-      "Image": "sdsadsdfsdfsdf",
-      "Description": "sdsadsadsdfsdfsd"
-    },
-    {
-      "id": "132b",
-      "Title": "sadsd",
-      "Author": "sadsad",
-      "Category": "sdsd",
-      "Image": "sdsadsdfsdfsdf",
-      "Description": "sdsadsadsdfsdfsd"
+      "id": "63c8",
+      "Title": "Personal Blog...",
+      "Author": " MD  Writer",
+      "Category": "Self Intro",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzySwc6nmypF8xfkZsroGSZeG_e2dqlBzY3w&s",
+      "Description": "Hello there, I am currently a student enrolled in a Web Design and App. Development course at SU. I have a few skills that I believe translate well into having a good career.\n\nFirstly, I can play multiple instruments including the main 4 wooden orchestra instruments, guitar, bass-guitar, and piano. I bring this up as I believe it shows that I enjoy and I am capable of learning multiple things."
     }
   ]
 }

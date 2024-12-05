@@ -40,7 +40,7 @@ function Form() {
                   message: "At least 3 characters required",
                 },
                 maxLength: {
-                  value: 10,
+                  value: 30,
                   message: "Maximum 10 characters allowed",
                 },
               })}
@@ -103,7 +103,7 @@ function Form() {
                 message: "At least 10 characters required",
               },
               maxLength: {
-                value: 50,
+                value: 100,
                 message: "Maximum 50 characters allowed",
               },
             })}
@@ -123,7 +123,7 @@ function Form() {
                 message: "At least 10 characters required",
               },
               maxLength: {
-                value: 100,
+                value: 500,
                 message: "Maximum 100 characters allowed",
               },
             })}
